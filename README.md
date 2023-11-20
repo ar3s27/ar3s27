@@ -1,6 +1,10 @@
 # 💫 About Me:
 🔭I am currently focused on developing machine learning models for natural language processing. My work revolves around leveraging artificial intelligence to solve language complexities and improve human-computer interactions. By delving into the intricacies of data science and exploring innovative machine learning approaches, I am committed to pushing the boundaries in intelligent systems.<br><br>👯 I'm thinking of collaborating: Artificial intelligence and data science projects<br><br>🤝 I'm looking for help with: Exploring advanced topics in physics and expanding my knowledge in specific areas of software development.<br><br>🌱 I'm currently learning: Advanced concepts in machine learning and staying up to date with the latest developments in artificial intelligence.<br><br>💬 Ask me: Anything related to Physics, Mathematics, Software Development, Artificial Intelligence or Data Science.<br><br>⚡ Fun fact: Did you know that the concept of artificial intelligence has been around for centuries, and there are ancient myths and stories about artificial beings coming to life?
 
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=ar3s27&theme=dracula&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=ar3s27&theme=dracula&hide_border=false)<br/>
+
 <br>
 <p align="center"><img src="https://komarev.com/ghpvc/?username=ar3s27&style=flat-square&color=blue" alt=""></p>
 
@@ -28,10 +32,7 @@
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=120&section=footer"/>
 
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=ar3s27&theme=dracula&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=ar3s27&theme=dracula&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=ar3s27&theme=dracula&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=ar3s27&theme=darkhub&no-frame=false&no-bg=false&margin-w=4)
