@@ -6,17 +6,12 @@
 <br>
 <div align="center">  
    <img width="45%" height="250px" src="https://github-stats-alpha.vercel.app/api?username=ar3s27&cc=000&tc=fff&ic=fff&bc=000" alt="Veysel's github stats" /> 
-  <img width="45%" height="250px" src="https://streak-stats.demolab.com?user=ar3s27&theme=dark" alt="Veysel's github streak stats"/>
-</div>
-
-<br>
-
-<div align="center">  
-  <img width="45%" height="250px" src="https://stats.quine.sh/ar3s27/languages-over-time?theme=dark" alt="Veysel's Languages Over Time"/>
-  <img width="45%" height="250px" src="https://stats.quine.sh/ar3s27/topics-over-time?theme=dark" alt="Veysel's Topics Over Time"/>
+   <img width="45%" height="250px" src="https://streak-stats.demolab.com?user=ar3s27&theme=dark" alt="Veysel's github streak stats"/>
+   <img width="45%" height="250px" src="https://stats.quine.sh/ar3s27/languages-over-time?theme=dark" alt="Veysel's Languages Over Time"/>
+   <img width="45%" height="250px" src="https://stats.quine.sh/ar3s27/topics-over-time?theme=dark" alt="Veysel's Topics Over Time"/>
 </div>
       
-<br>
+
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/veyselares27) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/veysel-erkoyuncu) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/VeyselErkoyunc3) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@veyselerkoyuncu4057) 
