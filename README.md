@@ -7,8 +7,8 @@
 <div align="center">  
    <img width="45%" height="250px" src="https://github-stats-alpha.vercel.app/api?username=ar3s27&cc=000&tc=fff&ic=fff&bc=000" alt="Veysel's github stats" /> 
    <img width="45%" height="250px" src="https://streak-stats.demolab.com?user=ar3s27&theme=dark" alt="Veysel's github streak stats"/>
-   <img width="45%" height="250px" src="https://stats.quine.sh/ar3s27/languages-over-time?theme=dark" alt="Veysel's Languages Over Time"/>
-   <img width="45%" height="250px" src="https://stats.quine.sh/ar3s27/topics-over-time?theme=dark" alt="Veysel's Topics Over Time"/>
+   <img width="45%" height="250px" src="https://stats.quine.sh/invictus-21/languages-over-time?theme=dark" alt="Ata's Languages Over Time"/>
+  <img width="45%" height="250px" src="https://stats.quine.sh/invictus-21/topics-over-time?theme=dark" alt="Ata's Topics Over Time"/>
 </div>
       
 
