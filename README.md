@@ -3,8 +3,6 @@
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=ar3s27&theme=dracula&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=ar3s27&theme=dracula&hide_border=false)<br/>
-
 <br>
 <p align="center"><img src="https://komarev.com/ghpvc/?username=ar3s27&style=flat-square&color=blue" alt=""></p>
 
