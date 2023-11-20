@@ -17,12 +17,38 @@
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/veyselares27) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/veysel-erkoyuncu) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/VeyselErkoyunc3) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@veyselerkoyuncu4057) 
 
 <div align="center"> 
-  <h1><center> 💻 Tech Stack </center></h1>
-  <p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,github,jenkins,py,r,java,c,cpp,bash,matlab,html,javascript,ts,solidity,react,django,fastapi,flask,postman,tensorflow,pytorch,sqlite,mysql,postgresql,azure,aws,docker,devto,discord,visualstudio&perline=10" />
-    </a>
-  </p>
+   <p align="center">
+            <h1><center> 💻 Programming Languages </center></h1>
+            <!-- 💻 Programming Languages -->
+            <a href="https://skillicons.dev">
+                <img src="https://skillicons.dev/icons?i=py,cs,java,js,php,r,solidity" />
+            </a>
+            <h1><center> 🌐 Web Technologies and Frameworks </center></h1>
+            <!-- 🌐 Web Technologies and Frameworks -->
+            <a href="https://skillicons.dev">
+                <img src="https://skillicons.dev/icons?i=bootstrap,django,fastapi,flask,html,js,mysql,php,qt,wordpress" />
+            </a>
+            <h1><center> 🚀 DevOps and Version Control </center></h1>
+            <!-- 🚀 DevOps and Version Control -->
+            <a href="https://skillicons.dev">
+                <img src="https://skillicons.dev/icons?i=git,docker,github,linux,netlify,powershell,vercel,visualstudio,vscode" />
+            </a>
+            <h1><center> ☁️ Cloud Platforms and Databases </center></h1>
+            <!-- ☁️ Cloud Platforms and Databases -->
+            <a href="https://skillicons.dev">
+                <img src="https://skillicons.dev/icons?i=aws,azure,mongodb,sqlite" />
+            </a>
+            <h1><center> 🤖 Machine Learning and AI </center></h1>
+            <!-- 🤖 Machine Learning and AI -->
+            <a href="https://skillicons.dev">
+                <img src="https://skillicons.dev/icons?i=pytorch,tensorflow" />
+            </a>
+            <h1><center> 🛠️ Other Tools </center></h1>
+            <!-- 🛠️ Other Tools -->
+            <a href="https://skillicons.dev">
+                <img src="https://skillicons.dev/icons?i=matlab,postman" />
+            </a>
+        </p>
 </div>
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=120&section=footer"/>
