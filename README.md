@@ -2,16 +2,16 @@
 🔭I am currently focused on developing machine learning models for natural language processing. My work revolves around leveraging artificial intelligence to solve language complexities and improve human-computer interactions. By delving into the intricacies of data science and exploring innovative machine learning approaches, I am committed to pushing the boundaries in intelligent systems.<br><br>👯 I'm thinking of collaborating: Artificial intelligence and data science projects<br><br>🤝 I'm looking for help with: Exploring advanced topics in physics and expanding my knowledge in specific areas of software development.<br><br>🌱 I'm currently learning: Advanced concepts in machine learning and staying up to date with the latest developments in artificial intelligence.<br><br>💬 Ask me: Anything related to Physics, Mathematics, Software Development, Artificial Intelligence or Data Science.<br><br>⚡ Fun fact: Did you know that the concept of artificial intelligence has been around for centuries, and there are ancient myths and stories about artificial beings coming to life?
 
 <br>
-<p align="center"><img src="https://komarev.com/ghpvc/?username=invictus-21&style=flat-square&color=blue" alt=""></p>
+<p align="center"><img src="https://komarev.com/ghpvc/?username=ar3s27&style=flat-square&color=blue" alt=""></p>
 
 <div align="center">  
-   <img width="45%" height="250px" src="https://github-stats-alpha.vercel.app/api?username=invictus-21&cc=000&tc=fff&ic=fff&bc=000" alt="Ata's github stats" /> 
-  <img width="45%" height="250px" src="https://streak-stats.demolab.com?user=invictus-21&theme=dark" alt="Ata's github streak stats"/>
+   <img width="45%" height="250px" src="https://github-stats-alpha.vercel.app/api?username=ar3s27&cc=000&tc=fff&ic=fff&bc=000" alt="Veysel's github stats" /> 
+  <img width="45%" height="250px" src="https://streak-stats.demolab.com?user=ar3s27&theme=dark" alt="Veysel's github streak stats"/>
 </div>
 
 <div align="center">  
-  <img width="45%" height="250px" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=invictus-21&theme=2077" alt="Ata's top lang stats per repo"/>
-  <img width="45%" height="250px" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=invictus-21&theme=2077" alt="Ata's top lang stats per commit"/>
+  <img width="45%" height="250px" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ar3s27&theme=2077" alt="Veysel's top lang stats per repo"/>
+  <img width="45%" height="250px" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ar3s27&theme=2077" alt="Veysel's top lang stats per commit"/>
 </div>
 
 ## 🌐 Socials:
