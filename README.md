@@ -15,7 +15,6 @@
 
 <div align="center">  
   <img width="45%" height="250px" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ar3s27&theme=2077" alt="Veysel's top lang stats per repo"/>
-  <img width="45%" height="250px" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ar3s27&theme=2077" alt="Veysel's top lang stats per commit"/>
 </div>
 
 ## 🌐 Socials:
