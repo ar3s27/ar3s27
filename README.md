@@ -21,7 +21,7 @@
             <h1><center> 💻 Programming Languages </center></h1>
             <!-- 💻 Programming Languages -->
             <a href="https://skillicons.dev">
-                <img src="https://skillicons.dev/icons?i=py,cs,java,js,php,r,solidity" />
+                <img src="https://skillicons.dev/icons?i=py,cs,java,js,r,solidity,matlab" />
             </a>
             <h1><center> 🌐 Web Technologies and Frameworks </center></h1>
             <!-- 🌐 Web Technologies and Frameworks -->
@@ -31,7 +31,7 @@
             <h1><center> 🚀 DevOps and Version Control </center></h1>
             <!-- 🚀 DevOps and Version Control -->
             <a href="https://skillicons.dev">
-                <img src="https://skillicons.dev/icons?i=git,docker,github,linux,netlify,powershell,vercel,visualstudio,vscode" />
+                <img src="https://skillicons.dev/icons?i=git,docker,github,linux,netlify,powershell,vercel" />
             </a>
             <h1><center> ☁️ Cloud Platforms and Databases </center></h1>
             <!-- ☁️ Cloud Platforms and Databases -->
@@ -46,7 +46,7 @@
             <h1><center> 🛠️ Other Tools </center></h1>
             <!-- 🛠️ Other Tools -->
             <a href="https://skillicons.dev">
-                <img src="https://skillicons.dev/icons?i=matlab,postman" />
+                <img src="https://skillicons.dev/icons?i=visualstudio,vscode,postman" />
             </a>
         </p>
 </div>
