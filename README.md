@@ -26,7 +26,7 @@
             <h1><center> 🌐 Web Technologies and Frameworks </center></h1>
             <!-- 🌐 Web Technologies and Frameworks -->
             <a href="https://skillicons.dev">
-                <img src="https://skillicons.dev/icons?i=bootstrap,django,fastapi,flask,html,js,mysql,php,qt,wordpress" />
+                <img src="https://skillicons.dev/icons?i=bootstrap,django,fastapi,flask,html,mysql,php,qt,wordpress" />
             </a>
             <h1><center> 🚀 DevOps and Version Control </center></h1>
             <!-- 🚀 DevOps and Version Control -->
