@@ -30,7 +30,7 @@
         <h1><center> 🚀 DevOps and Version Control </center></h1>
         <!-- 🚀 DevOps and Version Control -->
         <a href="https://skillicons.dev">
-            <img src="https://skillicons.dev/icons?i=git,docker,github,linux,netlify,powershell,vercel" />
+            <img src="https://skillicons.dev/icons?i=git,docker,github,linux,netlify,powershell,vercel,postman" />
         </a>
         <h1><center> ☁️ Cloud Platforms and Databases </center></h1>
         <!-- ☁️ Cloud Platforms and Databases -->
@@ -49,7 +49,7 @@
         <h1><center> 🛠️ Other Tools </center></h1>
         <!-- 🛠️ Other Tools -->
         <a href="https://skillicons.dev">
-            <img src="https://skillicons.dev/icons?i=visualstudio,vscode,postman" />
+            <img src="https://skillicons.dev/icons?i=visualstudio,vscode" />
         </a>
     </p>
 </div>
