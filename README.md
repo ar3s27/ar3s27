@@ -18,37 +18,37 @@
 
 <div align="center"> 
    <p align="center">
-            <h1><center> 💻 Programming Languages </center></h1>
-            <!-- 💻 Programming Languages -->
-            <a href="https://skillicons.dev">
-                <img src="https://skillicons.dev/icons?i=py,cs,java,js,r,solidity,matlab" />
-            </a>
-            <h1><center> 🌐 Web Technologies and Frameworks </center></h1>
-            <!-- 🌐 Web Technologies and Frameworks -->
-            <a href="https://skillicons.dev">
-                <img src="https://skillicons.dev/icons?i=bootstrap,django,fastapi,flask,html,mysql,php,qt,wordpress" />
-            </a>
-            <h1><center> 🚀 DevOps and Version Control </center></h1>
-            <!-- 🚀 DevOps and Version Control -->
-            <a href="https://skillicons.dev">
-                <img src="https://skillicons.dev/icons?i=git,docker,github,linux,netlify,powershell,vercel" />
-            </a>
-            <h1><center> ☁️ Cloud Platforms and Databases </center></h1>
-            <!-- ☁️ Cloud Platforms and Databases -->
-            <a href="https://skillicons.dev">
-                <img src="https://skillicons.dev/icons?i=aws,azure,mongodb,sqlite" />
-            </a>
-            <h1><center> 🤖 Machine Learning and AI </center></h1>
-            <!-- 🤖 Machine Learning and AI -->
-            <a href="https://skillicons.dev">
-                <img src="https://skillicons.dev/icons?i=pytorch,tensorflow" />
-            </a>
-            <h1><center> 🛠️ Other Tools </center></h1>
-            <!-- 🛠️ Other Tools -->
-            <a href="https://skillicons.dev">
-                <img src="https://skillicons.dev/icons?i=visualstudio,vscode,postman" />
-            </a>
-        </p>
+        <h1><center> 💻 Programming Languages </center></h1>
+        <!-- 💻 Programming Languages -->
+        <a href="https://skillicons.dev">
+            <img src="https://skillicons.dev/icons?i=py,cs,java,js,r,solidity,matlab" />
+        </a>
+        <h1><center> 🌐 Web Technologies and Frameworks </center></h1>
+        <!-- 🌐 Web Technologies and Frameworks -->
+        <a href="https://skillicons.dev">
+            <img src="https://skillicons.dev/icons?i=bootstrap,django,fastapi,flask,html,mysql,php,qt,wordpress" />
+        </a>
+        <h1><center> 🚀 DevOps and Version Control </center></h1>
+        <!-- 🚀 DevOps and Version Control -->
+        <a href="https://skillicons.dev">
+            <img src="https://skillicons.dev/icons?i=git,docker,github,linux,netlify,powershell,vercel" />
+        </a>
+        <h1><center> ☁️ Cloud Platforms and Databases </center></h1>
+        <!-- ☁️ Cloud Platforms and Databases -->
+        <a href="https://skillicons.dev">
+            <img src="https://skillicons.dev/icons?i=aws,azure,mongodb,sqlite" />
+        </a>
+        <h1><center> 🤖 Machine Learning and AI </center></h1>
+        <!-- 🤖 Machine Learning and AI -->
+        <a href="https://skillicons.dev">
+            <img src="https://skillicons.dev/icons?i=pytorch,tensorflow" />
+        </a>
+        <h1><center> 🛠️ Other Tools </center></h1>
+        <!-- 🛠️ Other Tools -->
+        <a href="https://skillicons.dev">
+            <img src="https://skillicons.dev/icons?i=visualstudio,vscode,postman" />
+        </a>
+    </p>
 </div>
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=120&section=footer"/>
@@ -64,4 +64,3 @@
 ---
 [![](https://visitcount.itsvg.in/api?id=ar3s27&icon=5&color=6)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
