@@ -6,7 +6,7 @@
 <div align="center">  
    <img width="45%" height="250px" src="https://github-stats-alpha.vercel.app/api?username=ar3s27&cc=000&tc=fff&ic=fff&bc=000" alt="Veysel's github stats" /> 
    <img width="45%" height="250px" src="https://streak-stats.demolab.com?user=ar3s27&theme=dark" alt="Veysel's github streak stats"/>
-   <img width="45%" height="250px" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ar3s27&theme=2077" alt="Veysel's top lang stats per repo"/>
+   <img width="45%" height="250px" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ar3s27&theme=dark" alt="Veysel's top lang stats per repo"/>
   <img width="45%" height="250px" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ar3s27&theme=2077" alt="Veysel's top lang stats per commit"/>
 </div>
       
